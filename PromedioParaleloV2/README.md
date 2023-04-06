@@ -8,4 +8,4 @@ Imprime el número de hilos que se utilizó, el tiempo del cálculo y el resulta
 Finalmente muestra una gráfica comparativa del tiempo de ejecución vs número de hilos.
 
 
-![Gráfico de ejemplo del resultado.]("C:\Users\anala\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla 2023-04-06 164342.png")
+![Captura de pantalla 2023-04-06 164342](https://user-images.githubusercontent.com/72826578/230507470-05a0a58a-00fc-42e9-952b-e06c2b59799b.png)
