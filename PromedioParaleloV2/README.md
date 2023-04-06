@@ -1,4 +1,4 @@
-# Descipción del programa
+# Descripción del programa
 Este programa toma el tiempo de ejecución de diferentes números de hilos (1, 2, 3, 4, 5, 10, 20, 30, 50) al obtener el promedio de 2000000 números aleatorios.
 
 
